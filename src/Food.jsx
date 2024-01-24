@@ -14,4 +14,4 @@ function Food(){
     );
 }
 
-export default Food
+export default Food 
